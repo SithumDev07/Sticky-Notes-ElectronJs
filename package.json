@@ -1,0 +1,15 @@
+{
+  "name": "modern-stickies",
+  "version": "1.0.0",
+  "description": "Modern way of using sticky notes.",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sithum Dashantha Basnayake",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^16.0.2"
+  }
+}
